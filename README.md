@@ -1,0 +1,4 @@
+# CameraTest
+android training关于使用摄像头及加载图片的处理。
+因为图片加载效率是android中非常重要的一个基础，尤其对于图片多的应用，要考虑内存的占用。
+利用bitmapFactory的options可以来根据我们自己的要求来定制加载我们需要的图片大小，适当控制内存占用情况
